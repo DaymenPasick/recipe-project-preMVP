@@ -1,0 +1,32 @@
+article footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+h2 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-size: 40px;
+  color: #407088;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-size: 70px;
+  color: #407088;
+  
+}
+
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  background-color: #ffcbcb;
+}
+
+a {
+  color: #407088; 
+  
+}
